@@ -8,6 +8,10 @@
 # dependencies
 /node_modules
 
+# package files
+package-lock.json
+yarn.lock
+
 # IDEs and editors
 /.idea
 .project
